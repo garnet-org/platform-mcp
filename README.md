@@ -25,11 +25,6 @@ Using garnetctl:
 garnetctl config current-token
 ```
 
-Or create a new token:
-```bash
-garnetctl token create --name "mcp-integration"
-```
-
 ### 2. Configure Claude Desktop
 
 Edit your Claude configuration file:
